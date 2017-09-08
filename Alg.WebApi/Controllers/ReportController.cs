@@ -37,7 +37,18 @@ namespace Alg.WebApi.Controllers
 
             return report;
         }
+        [Route("data")]
+        public AnalyticsData GetAnalytics()
+        {
+            return new AnalyticsData()
+            {
+                Budget = 50000,
+                Target = 83567,
+                Span = "2 months",
+                Workers = 50,
+            };
 
+        }
        [Route("worktable/{id}")]
        public WorkSchedule GetWorkTable([FromBody]List<ReportModel> model,int id)
         {

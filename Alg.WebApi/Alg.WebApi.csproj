@@ -115,13 +115,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="401.tmpl.html" />
+    <Content Include="404.tmpl.html" />
+    <Content Include="500.tmpl.html" />
     <Content Include="Global.asax" />
+    <Content Include="index.html" />
+    <Content Include="scripts\app.js" />
+    <Content Include="scripts\vendor.js" />
+    <Content Include="styles\app.css" />
+    <Content Include="styles\vendor.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Code\DayModel.cs" />
     <Compile Include="Code\MicroService.cs" />
+    <Compile Include="Models\AnalyticsData.cs" />
     <Compile Include="Controllers\EntityController.cs" />
     <Compile Include="Controllers\ReportController.cs" />
     <Compile Include="Global.asax.cs">
