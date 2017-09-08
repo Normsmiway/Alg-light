@@ -1,0 +1,5 @@
+c:\users\arewa deal online lt\documents\visual studio 2015\Projects\Alg\Alg.Domain\bin\Debug\Alg.Domain.dll
+c:\users\arewa deal online lt\documents\visual studio 2015\Projects\Alg\Alg.Domain\bin\Debug\Alg.Domain.pdb
+c:\users\arewa deal online lt\documents\visual studio 2015\Projects\Alg\Alg.Domain\obj\Debug\Alg.Domain.csprojResolveAssemblyReference.cache
+c:\users\arewa deal online lt\documents\visual studio 2015\Projects\Alg\Alg.Domain\obj\Debug\Alg.Domain.dll
+c:\users\arewa deal online lt\documents\visual studio 2015\Projects\Alg\Alg.Domain\obj\Debug\Alg.Domain.pdb
