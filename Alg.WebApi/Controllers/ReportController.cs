@@ -41,7 +41,10 @@ namespace Alg.WebApi.Controllers
         public AnalyticsData GetAnalytics()
         {
             
+            
             return new AnalyticsData()
+
+            
             {
                 Budget = 50000,
                 Target = 83567,
