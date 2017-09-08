@@ -3,3 +3,8 @@ c:\users\arewa deal online lt\documents\visual studio 2015\Projects\Alg\Alg.Doma
 c:\users\arewa deal online lt\documents\visual studio 2015\Projects\Alg\Alg.Domain\obj\Debug\Alg.Domain.csprojResolveAssemblyReference.cache
 c:\users\arewa deal online lt\documents\visual studio 2015\Projects\Alg\Alg.Domain\obj\Debug\Alg.Domain.dll
 c:\users\arewa deal online lt\documents\visual studio 2015\Projects\Alg\Alg.Domain\obj\Debug\Alg.Domain.pdb
+C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Alg-light\Alg.Domain\bin\Debug\Alg.Domain.dll
+C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Alg-light\Alg.Domain\bin\Debug\Alg.Domain.pdb
+C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Alg-light\Alg.Domain\obj\Debug\Alg.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Alg-light\Alg.Domain\obj\Debug\Alg.Domain.dll
+C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Alg-light\Alg.Domain\obj\Debug\Alg.Domain.pdb
