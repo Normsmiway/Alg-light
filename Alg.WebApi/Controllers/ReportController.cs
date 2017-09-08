@@ -40,6 +40,7 @@ namespace Alg.WebApi.Controllers
         [Route("data")]
         public AnalyticsData GetAnalytics()
         {
+            
             return new AnalyticsData()
             {
                 Budget = 50000,
